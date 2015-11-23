@@ -1,0 +1,9 @@
+{
+    "rules": [
+        {   
+            "cond-target": "browser-mobile",
+            "cond-fileList": ["."],
+            "po2": true
+        }
+    ]
+}

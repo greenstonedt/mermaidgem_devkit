@@ -1,0 +1,23 @@
+{
+  "android": {
+    "icons": {
+      "144": "resources/icons/icon_512.png"
+    },
+    "versionCode": 1
+  },
+  "appID": "e481cf3f0872448f82c32498b8da3109",
+  "dependencies": {
+    "devkit-core": "https://github.com/gameclosure/devkit-core#v4.0.6"
+  },
+  "icon": "resources/icons/icon_512.png",
+  "shortName": "mermaidgem",
+  "studio": {
+    "domain": "studio.thachtnd.com",
+    "name": "tee",
+    "stagingDomain": "staging.thachtnd.com"
+  },
+  "supportedOrientations": [
+    "portrait"
+  ],
+  "title": "Mermaid's Gem"
+}
